@@ -7,7 +7,7 @@
     <inceptionYear>2008</inceptionYear>
     <properties>
         <scala.version>2.12.11</scala.version>
-        <hadoop.version>3.2.1</hadoop.version>
+        <hadoop.version>3.2.2</hadoop.version>
     </properties>
 
     <repositories>
